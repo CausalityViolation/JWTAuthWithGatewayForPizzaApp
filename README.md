@@ -1,2 +1,2 @@
 # JWTAuthWithGatewayForComradePizza
-Gateway and Authentication Application for ComradePizza. Collab with BobZoid.
+Gateway and Authentication Application for Pizza app. Collab with BobZoid.
